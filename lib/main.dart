@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
-// Removed unused path_provider import (Fixes yellow line)
 import 'providers/project_provider.dart';
 import 'models/project_model.dart';
 import 'screens/home_screen.dart';
